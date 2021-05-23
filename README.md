@@ -12,7 +12,7 @@ docker pull opspresso/kops
 ## version
 
 ```
-ENV VERSION v1.19.3
+ENV VERSION v1.21.0-beta.2
 ```
 
 ## latest
